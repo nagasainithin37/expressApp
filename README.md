@@ -1,5 +1,9 @@
 # How to create a server using Express App
 
+## Step 0:
+
+    use npm init for creating a package.json file
+
 ## Step 1:
 
 ### install , import and use express app
